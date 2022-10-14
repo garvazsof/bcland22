@@ -60,7 +60,7 @@
     "@commitlint/cli": "^17.0.3",
     "@commitlint/config-conventional": "^17.0.3",
     "@cspell/dict-bash": "^2.0.4",
-    "@cspell/dict-companies": "^2.0.11",
+    "@cspell/dict-companies": "^3.0.0",
     "@cspell/dict-es-es": "^2.2.0",
     "@cspell/dict-filetypes": "^2.1.1",
     "@cspell/dict-html": "^3.0.4",
